@@ -8,7 +8,7 @@ This interactive Power BI dashboard analyzes e-commerce sales performance and pr
 
 # 📷 Dashboard Preview
 
-![Dashboard](./E-Commerce Dashboard-PowerBI.png)
+<img src="E-Commerce Dashboard-PowerBI.png" width="100%">
 
 ---
 
