@@ -64,6 +64,12 @@ This interactive Power BI dashboard analyzes e-commerce sales performance and pr
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Abhishek Singh**
+
+Aspiring Data Analyst
+
+📧 Email: abhiisinghh0556@gmail.com
+
+🔗 GitHub: https://github.com/abhiisinghh
