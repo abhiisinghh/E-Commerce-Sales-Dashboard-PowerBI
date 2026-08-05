@@ -64,6 +64,15 @@ This interactive Power BI dashboard analyzes e-commerce sales performance and pr
 
 ---
 
+## 🚀 How to Use
+
+1. Download the **Power BI Dashboard (.pbix)** file.
+2. Extract the **Dataset (.zip)** file.
+3. Open the `.pbix` file in **Power BI Desktop**.
+4. If prompted, reconnect the dataset and click **Refresh**.
+
+---
+
 ## 👨‍💻 Author
 
 **Abhishek Singh**
