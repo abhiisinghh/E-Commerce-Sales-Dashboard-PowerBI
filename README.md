@@ -53,13 +53,14 @@ This interactive Power BI dashboard analyzes e-commerce sales performance and pr
 - Data Visualization
 - Dashboard Design
 - Business Intelligence
+
 ---
 
-# 📂 Project Files
+## 📂 Project Files
 
-- 📄 E-Commerce Dashboard-PowerBI.pbix
-- 📊 E-Commerce Dataset.zip
-- 🖼 Dashboard Screenshot
+- 📄 [Power BI Dashboard (.pbix)](./E-Commerce%20Dashboard-PowerBI.pbix)
+- 🗂️ [Dataset (.zip)](./E-Commerce%20Dataset.zip)
+- 🖼️ [Dashboard Screenshot](./E-Commerce%20Dashboard-PowerBI.png)
 
 ---
 
