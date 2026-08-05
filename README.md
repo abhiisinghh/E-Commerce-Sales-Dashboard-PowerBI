@@ -32,13 +32,27 @@ This interactive Power BI dashboard analyzes e-commerce sales performance and pr
 
 ---
 
+## 📈 Business Insights
+
+- 💰 Total Sales reached **$16M**.
+- 🛒 Processed over **99K Orders**.
+- 👥 Served more than **96K Customers**.
+- 🏆 Health & Beauty is the highest revenue generating category.
+- 🌆 São Paulo generated the highest revenue among all cities.
+- 💳 Most customers preferred online payment methods.
+
+---
+
 # 🛠 Tools Used
 
 - Power BI
 - Power Query
 - DAX
 - Data Modeling
-
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
 ---
 
 # 📂 Project Files
